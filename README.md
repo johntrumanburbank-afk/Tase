@@ -4,6 +4,7 @@ TASE — Web3 logistics platform prototype for tracking trailer operations (hand
 
 # Demo 
 
+https://johntrumanburbank-afk.github.io/Tase/
 
 ## 🧭 Aperçu
 
